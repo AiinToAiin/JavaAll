@@ -16,6 +16,8 @@ public class maintest {
 
         //chazhaoxiaoyv(list);
 
+        printtest pt = new printtest();
+        pt.printhh();
 
 
         //定义方法用来将价格低于3000的手机信息返回
